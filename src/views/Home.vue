@@ -38,6 +38,7 @@ export default {
           mk.setLabel(label)
           map.panTo(r.point);
           map.setCenter(r.point)
+          alert('您的位置：' + r.point.lng + ',' + r.point.lat)
           console.log('您的位置：' + r.point.lng + ',' + r.point.lat);
         }
         else {
