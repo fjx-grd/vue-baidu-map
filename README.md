@@ -27,3 +27,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 - <https://developer.mozilla.org/zh-CN/docs/Web/API/Geolocation/getCurrentPosition>
 - <http://lbsyun.baidu.com/index.php?title=jspopular3.0/guide/coorinfo>
+- <http://lbsyun.baidu.com/jsdemo.htm#i8_1>
