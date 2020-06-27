@@ -1,7 +1,8 @@
 module.exports = {
   configureWebpack: {
     externals: {
-      BMap: 'BMap'
+      BMap: 'BMap',
+      CCBBridge: 'CCBBridge',
     }
   },
   publicPath: '/vue-baidu-map'
